@@ -1,0 +1,17 @@
+.titulo{
+    font-size: 70px;
+    padding-left: 250px;
+}
+.subtitulo{
+    padding-left: 250px;
+    margin-top: -10px;
+}
+.container_titulo{
+    padding: 90px;   
+}
+
+hr{
+    color:#AE7E5E;
+    margin-left: 230px;
+    width: 700px;
+}
